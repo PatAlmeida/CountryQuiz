@@ -1,0 +1,9 @@
+.root {
+	-fx-padding: 12px;
+}
+.darker {
+	-fx-background-color: #454545;
+}
+.lighter {
+	-fx-background-color: #bfbfbf;
+}
